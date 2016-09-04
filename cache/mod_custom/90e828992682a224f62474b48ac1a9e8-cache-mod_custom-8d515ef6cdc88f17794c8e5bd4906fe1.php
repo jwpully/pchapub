@@ -1,0 +1,5 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";a:3:{s:4:"body";s:0:"";s:4:"head";a:0:{}s:13:"mime_encoding";s:9:"text/html";}s:6:"result";s:839:"<div class="sp-module "><h3 class="sp-module-title">Meeting Schedule</h3><div class="sp-module-content"><div class="panel panel-default"><div class="panel-body">
+
+<div class="custom"  >
+	<p>January 21 - Board of Directors<br /> February 18 - Board of Directors<br /> March 17 - Board of Directors<br /> April 21 - <a title="Annual Meeting Materials" href="http://powhatancrossing.org/ammaterials">Annual Meeting</a><br /> May 19 - Board of Directors<br /> June 16 - Board of Directors<br /> July 21 - Board of Directors<br /> August 18 - <b>No Meeting</b><br /> September 15 - Board of Directors<br /> October 20 - Board of Directors<br /> November 17 - Board of Directors<br /> December - <b>No Meeting</b><br /><span style="color: #ff0000;">Meetings held at: <br /> Jamestown Presbyterian Church</span></p></div>
+</div></div></div></div>";}
