@@ -4,6 +4,8 @@ ehthumbs.db
 
 custom
 configuration.php
+administrator/cache
+cache
 
 # Folder config file
 Desktop.ini
